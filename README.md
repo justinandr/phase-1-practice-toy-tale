@@ -99,7 +99,7 @@ Each card should have the following child elements:
   number
 
 After all of that, the toy card should look something like this:
-
+ 
 ```html
 <div class="card">
   <h2>Woody</h2>
